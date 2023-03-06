@@ -34,11 +34,11 @@ Below is the X player winning
 
 Below is the O player winning
 
-![] (./oWon.png)
+![](./oWon.png)
 
 Below is a draw
 
-![] (./drawGame.png)
+![](./drawGame.png)
 
 - - - 
 
