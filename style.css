@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --purple: #C8A2C8;
+    --winning-blocks: #8f157f;
+    --draw-blocks: red;
+}
+
+body {
+    color: var(--purple)  ;
+    font-family: 'Finger Paint', cursive;
+}
+h1 {
+    font-size: 75px;
+    text-transform: uppercase;
+}
+
+.container {
+    padding: 40px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(./butteryflies.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#music {
+    opacity: 10%;
+}
+#gameboard {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    color: #354957;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--pink);
+    font-size: 120px;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+    cursor: pointer;
+}
+.box:hover , .box:focus , .box:active {
+    box-shadow: 10px 10px 10px #FFD700;
+    transform: scale(1.05);
+}
+.box:nth-child(3n) {
+    border-right: none;
+}
+.box:nth-child(6) ~ .box {
+    border-bottom: none;
+} 
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--orange);
+    color: #ecf00e;
+    border-color: #ecf00e ;
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+}
+button:hover {
+    cursor: cursor;
+    transform: translateY(-2px);
+}
