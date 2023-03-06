@@ -30,11 +30,11 @@ Rules are self-explanantory since this is a simple 3 in a row game. Try to get 3
 
 Below is the X player winning
 
-![](./XWon.png)
+![](./xWon.png)
 
 Below is the O player winning
 
-![](./Owon.png)
+![](./oWon.png)
 
 Below is a draw
 
@@ -81,3 +81,4 @@ Third method is using the Go Live option in the bottom right hand corner of your
 - The music is from my friend who made it using the app Groovepad 
 - Youtube tutorials
 - GitHub Docs
+- Google Images
