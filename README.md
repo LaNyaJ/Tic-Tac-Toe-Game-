@@ -38,7 +38,7 @@ Below is the O player winning
 
 Below is a draw
 
-![](./drawGame.png)
+![](./draw.png)
 
 - - - 
 
