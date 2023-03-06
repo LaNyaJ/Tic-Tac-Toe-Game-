@@ -30,15 +30,15 @@ Rules are self-explanantory since this is a simple 3 in a row game. Try to get 3
 
 Below is the X player winning
 
-![](./xWon.png)
+![] (./xWon.png)
 
 Below is the O player winning
 
-![](./oWon.png)
+![] (./oWon.png)
 
 Below is a draw
 
-![](./drawGame.png)
+![] (./drawGame.png)
 
 - - - 
 
