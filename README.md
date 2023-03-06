@@ -30,11 +30,11 @@ Rules are self-explanantory since this is a simple 3 in a row game. Try to get 3
 
 Below is the X player winning
 
-![](./X Won.png)
+![](./XWon.png)
 
 Below is the O player winning
 
-![](./O won.png)
+![](./Owon.png)
 
 Below is a draw
 
