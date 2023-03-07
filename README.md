@@ -54,7 +54,7 @@ Below is a draw
 ## Acknowledgements:
 - Youtube tutorials
 - GitHub Docs
-- PerScholas Alumni Moses Blount
+
 
 ## How to access this Repository
 
